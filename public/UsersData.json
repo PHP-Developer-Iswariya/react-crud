@@ -1,0 +1,100 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Edited Contact",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "1-770-736-8031 x56442"
+    },
+    {
+      "id": 2,
+      "name": "iswariya",
+      "email": "iswariya@gmail.com",
+      "address": {
+        "street": "simmakal",
+        "suite": "Vite 200",
+        "city": "Madurai",
+        "zipcode": "6000028"
+      },
+      "phone": "9952264385"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "phone": "1-463-123-4447"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "phone": "493-170-9623 x156"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "phone": "1-477-935-8478 x6430"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "phone": "210.067.6132"
+    },
+    {
+      "id": 8,
+      "name": "Edited Contact",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "586.493.6943 x140"
+    },
+    {
+      "name": "VIJETHA YERADULA",
+      "email": "vijetharamireddy25@gmail.com",
+      "phone": "1122334455",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "MPKM",
+        "city": "Wisokyburgh",
+        "zipcode": "6000028"
+      },
+      "id": 9
+    }
+  ]
+}
